@@ -2,6 +2,7 @@
 
   - ß === ss
   - Sie === zee
+  - ch === kh
   
 ## Lektion 1 [লেক্সিওন আইন্স] : Lesson 1 
    ### Begrüßungen [বেগ-রু-সুন-গেন] : Greetings
@@ -45,3 +46,39 @@
    - Ja [ইয়া] : Yes
    - Nein [নাইন] : No
    - Vielleicht [ফিলাইশ্ট] : May be
+
+## Lektion 3 [লেক্সিওন সুয়াই] : Lesson 3
+   ### z = ts
+   ### v = f
+   ### S is starting letter, followed by a vowel == Z
+   ### eu = oi
+   ### numbers from 13 to 19 => number+zehn(10)
+   ### ig = ich = ikh
+   - 0 (null) :  নুল 
+   - 1 (eins) :  আইন্স 
+   - 2 (zwei) :  ts-u-a-i (ত-সুয়াই) [z = ts]
+   - 3 (drei) :  দ্রাই 
+   - 4 (vier) :  ফিয়া  [v = f]
+   - 5 (fünf) :  ফুনফ
+   - 6 (sechs):  যেখস [s followed by vowel = z, ch = kh]
+   - 7 (sieben): যিবেন [s followed by vowel = z] 
+   - 8 (acht):   আখ-ট
+   - 9 (neun):   নয়েন [eu = oi]
+   - 10 (zehn):  ত-সিন [z = ts]
+   - 11 (elf):   এলফ
+   - 12 (zwölf): ট-স-ওলফ [z = ts]
+   - 13 (dreizehn): দ্রাই-ত-সিন
+   - 14 (vierzehn): ফিয়া-ত-সিন
+   - 15 (fünfzehn): ফুনফ-ত-সিন
+   - 16 (sechszehn): যেখ-ত-সিন
+   - 17 (zeibenzehn): যিব-ত-সিন
+   - 18 (achtzehn): আখ-ট-সিন
+   - 19 (neunzehn): নয়েন-ত-সিন
+   - 20 (zwanzig) : যোয়ান-যিখ [g = ich = ikh]
+
+  ### Wie ist Ihre Handynummer (ওয়ি ইস্ট ইয়া হ্যান্ডই-নুমা) 
+      - What is your mobile number? (formal)
+  ### Wie ist deine Handynummer (ওয়ি ইস্ট ডায়না হ্যান্ডই-নুমা)
+      - What is your mobile number? (informal)
+  ### Meine Handynummer ist 018-632-945
+      - মাইনা হ্যান্ডই-নুমা ইস্ট নুল আইন্স আখট - যেখস দ্রাই ত-যুয়াই - নয়েন ফিয়া ফুনফ
